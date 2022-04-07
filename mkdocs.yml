@@ -1,0 +1,5 @@
+site_name: JS Tools
+nav:
+  - Home: index.md
+  - Vue: vue.md
+  - About: about.md
