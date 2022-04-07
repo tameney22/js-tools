@@ -8,6 +8,6 @@ theme:
     primary: yellow
 nav:
   - Home: index.md
-  - NPM: npm.md
+  - NPM: NPM.md
   - Vue: vue.md
   - About: about.md
