@@ -6,7 +6,7 @@ This documentation site was created as part of the final project submission for 
 
 ## Team
 
-- Armando Anastasio-Mendez
+- Armando Mendez-Anastasio
 - Dominique Broomfield
 - Jorge Soto-Ventura
 - Liz Kent
