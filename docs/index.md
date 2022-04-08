@@ -9,7 +9,7 @@ This documentation site was created as part of the final project submission for 
 Explore the tools below:
 
 - [Intro to JavaScript]()
-- [Node.js](vue)
+- [Node.js](node)
 - [NPM](NPM)
 - [React.js](vue)
 - [Vue.js](vue)

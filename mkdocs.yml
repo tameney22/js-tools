@@ -19,5 +19,6 @@ theme:
 
 nav:
   - Home: index.md
+  - Node: node.md
   - NPM: NPM.md
   - Vue: vue.md
