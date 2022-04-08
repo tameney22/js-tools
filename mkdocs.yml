@@ -3,9 +3,20 @@ site_name: JS Tools
 theme:
   name: material
   logo: img/logo.png
+  favicon: img/logo.png
+  features:
+    - navigation.tabs
   palette:
-    scheme: slate
-    primary: yellow
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: yellow
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 nav:
   - Home: index.md
   - NPM: NPM.md

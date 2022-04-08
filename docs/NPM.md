@@ -25,7 +25,7 @@ NPM can be accessed in two different ways
 
 - Access packages over the web from an online repository <https://www.npmjs.com/>
 - Through the command line interface using command (`npm install <package_name>`)
-  Once install these packages are then added to your code and available for you to utilize in your own code
+  Once installed these packages are then added to your code and available for you to utilize in your own code.
 
 ### What do you need to use the tool? What does it depend on?
 

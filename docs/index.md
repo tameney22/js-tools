@@ -2,7 +2,7 @@
 
 Welcome to the CSCI-397 JavaScript Tools team's Documentation!
 
-## Table of Contents
+## Tools
 
 - Intro to JavaScript
 - Node.js
