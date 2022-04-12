@@ -8,10 +8,11 @@ This documentation site was created as part of the final project submission for 
 
 Explore the tools below:
 
-- [Intro to JavaScript]()
+<!-- - [Intro to JavaScript]() -->
+
 - [Node.js](node)
 - [NPM](NPM)
-- [React.js](vue)
+- [React.js](react)
 - [Vue.js](vue)
 
 **Presentation Slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1nB_EdBHW2uOwyUc2y_9nw5GWYWUvCQ7inQTnX9lC7zg/edit)
