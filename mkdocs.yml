@@ -21,4 +21,5 @@ nav:
   - Home: index.md
   - Node: node.md
   - NPM: NPM.md
+  - React: react.md
   - Vue: vue.md
