@@ -8,8 +8,7 @@ This documentation site was created as part of the final project submission for 
 
 Explore the tools below:
 
-<!-- - [Intro to JavaScript]() -->
-
+- [Intro to JavaScript](js)
 - [Node.js](node)
 - [NPM](NPM)
 - [React.js](react)

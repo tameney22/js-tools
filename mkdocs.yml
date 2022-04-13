@@ -19,6 +19,7 @@ theme:
 
 nav:
   - Home: index.md
+  - JavaScript: js.md
   - Node: node.md
   - NPM: NPM.md
   - React: react.md
